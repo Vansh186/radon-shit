@@ -4,7 +4,7 @@ module.exports = {
   SUPPORT_SERVER: "", // Your bot support server
   DASHBOARD: {
     enabled: true, // enable or disable dashboard
-    baseURL: "http://saiteja-radon.vddev.repl.co", // base url
+    baseURL: "https://saiteja-radon.vddev.repl.co", // base url
     failureURL: "https://radondev.ml", // failure redirect url
     port: "8080", // port to run the bot on
   },
