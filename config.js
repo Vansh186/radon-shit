@@ -1,10 +1,10 @@
 module.exports = {
   OWNER_IDS: [], // Bot owner ID's
-  PREFIX: "!", // Default prefix for the bot
-  SUPPORT_SERVER: "", // Your bot support server
+  PREFIX: "-", // Default prefix for the bot
+  SUPPORT_SERVER: "https://dsc.gg/radondev", // Your bot support server
   DASHBOARD: {
     enabled: true, // enable or disable dashboard
-    baseURL: "https://saiteja-radon.vddev.repl.co", // base url
+    baseURL: "https://", // base url
     failureURL: "https://radondev.ml", // failure redirect url
     port: "8080", // port to run the bot on
   },
