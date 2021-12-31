@@ -4,7 +4,7 @@ module.exports = {
   SUPPORT_SERVER: "https://dsc.gg/radondev", // Your bot support server
   DASHBOARD: {
     enabled: true, // enable or disable dashboard
-    baseURL: "https:/", // base url
+    baseURL: "https://radon-production.up.railway.app", // base url
     failureURL: "https://radondev.ml", // failure redirect url
     port: "8080", // port to run the bot on
   },
